@@ -5,4 +5,4 @@ description: "A powerful, lightweight website for sharing memes and content."
 
 Welcome to Holy Lobster! 🦞
 
-This is a place where I share my thoughts, memes, and interesting content. Feel free to explore and enjoy!
+这里会分享电影，书籍，历史，游戏和大语言模型:)

@@ -19,10 +19,11 @@ replyByEmail = false
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
-disableTextInHeader = false
-# backgroundImageWidth = 1200
+disableTextInHeader = false 
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+#backgroundImageWidth = 1200
+
+defaultBackgroundImage = "img/avatar.png" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 
@@ -50,14 +51,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "images/icon_lobster.png" # used in: hero, and card
   showRecent = true
-  showRecentItems = 3
+  showRecentItems = 1
   showMoreLink = true
   showMoreLinkDest = "/posts/"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
-
 [article]
   showDate = true
   showViews = false
@@ -113,7 +113,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [taxonomy]
   showTermCount = true
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -122,7 +122,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [term]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false

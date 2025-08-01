@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "HolyLobster"
 
 [params]
   displayName = "EN"
@@ -15,11 +15,11 @@ title = "Blowfish"
   copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-   name = "HolyLobster"
+   name = "山月与故人"
 #   email = "youremail@example.com"
    image = "img/avatar.png"
    headline = "God was a lobster"
-   bio = "A little bit about you"
+   bio = "悠悠天地内，不死会相逢"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
