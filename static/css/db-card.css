@@ -1,0 +1,81 @@
+.db-card {
+    position: relative;
+    display: flex;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    padding: 16px;
+    margin: 20px 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    max-width: 800px;
+  }
+  
+  .db-corner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #f90;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 2px 8px;
+    border-bottom-left-radius: 6px;
+  }
+  
+  .db-cover img {
+    width: 100px;
+    height: auto;
+    border-radius: 6px;
+    margin-right: 16px;
+  }
+  
+  .db-info {
+    flex: 1;
+  }
+  
+  .db-title a {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #1a73e8;
+    text-decoration: none;
+  }
+  
+  .db-title a:hover {
+    text-decoration: underline;
+  }
+  
+  .db-rating {
+    display: flex;
+    align-items: center;
+    margin: 6px 0;
+  }
+  
+  .stars {
+    display: inline-block;
+    background: url('/images/star-bg.svg') repeat-x;
+    width: 80px;
+    height: 16px;
+    position: relative;
+    margin-right: 6px;
+  }
+  
+  .stars .filled {
+    background: url('/images/star-fill.svg') repeat-x;
+    height: 16px;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  
+  .rating-number {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .db-desc {
+    margin-top: 6px;
+    font-size: 0.95rem;
+    color: #444;
+    line-height: 1.4;
+  }
+  
