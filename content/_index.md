@@ -1,5 +1,8 @@
 ---
-title: "Welcome to Blowfish!"
-description: "This is a demo of adding content to the homepage."
+title: "Holy Lobster"
+description: "A powerful, lightweight website for sharing memes and content."
 ---
-Welcome to my website! I'm really happy you stopped by.
+
+Welcome to Holy Lobster! 🦞
+
+This is a place where I share my thoughts, memes, and interesting content. Feel free to explore and enjoy!
